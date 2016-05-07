@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fix google colors
 // @namespace    http://twitter.com/brabidou
-// @version      0.1
+// @version      0.2
 // @description  Fixes google link colors back to normal
 // @author       @BRabidou
 // @include      https://www.google.com/search*
