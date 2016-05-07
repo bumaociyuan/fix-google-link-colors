@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Fix google colors
-// @namespace    http://twitter.com/brabidou
-// @version      0.1
+// @namespace    http://github.com/brabidou
+// @version      0.2
 // @description  Fixes google link colors back to normal
 // @author       You
 // @match        https://www.google.com/search*
 // @match        http://www.google.com/search*
+// @updateURL    https://raw.githubusercontent.com/brabidou/fix-google-link-colors/master/fix-google.js
 // @grant        none
 // ==/UserScript==
 
