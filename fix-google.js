@@ -4,12 +4,7 @@
 // @version      0.2
 // @description  Fixes google link colors back to normal
 // @author       @BRabidou
-// @include      https://www.google.com/search*
-// @include      http://www.google.com/search*
-// @include      https://www.google.tld/search*
-// @include      http://www.google.tld/search*
-// @include      https://*.google.tld/search*
-// @include      http://*.google.tld/search*
+// @include      *://www.google.*/*
 // @updateURL    https://github.com/brabidou/fix-google-link-colors/blob/master/fix-google.js
 // @grant        none
 // ==/UserScript==
